@@ -1,0 +1,17 @@
+﻿# Gesture Subway Controller
+# Recommended Python Version: 3.12
+
+# Computer Vision and Webcam Processing
+opencv-python
+
+# Hand Tracking and Landmark Detection
+mediapipe==0.10.14
+
+# Numerical Operations
+numpy
+
+# Keyboard and Mouse Automation
+pyautogui
+
+# Game Keyboard Controls
+pydirectinput
